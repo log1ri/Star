@@ -1,8 +1,8 @@
 # Star_Mk1 Bot
 
 Star_Mk1 Bot เป็นโปรเจกต์ที่สร้างบอทสำหรับ Discord ที่มีฟีเจอร์หลากหลาย เช่น การส่งข้อความ, ดึงข้อมูลราคาทอง, ตรวจสอบสภาพอากาศ และเกมง่าย ๆ เพื่อเพิ่มความสนุกในเซิร์ฟเวอร์ของคุณ:
-https://discord.com/oauth2/authorize?client_id=1237683808896290867&permissions=8&integration_type=0&scope=bot
----
+- https://discord.com/oauth2/authorize?client_id=1237683808896290867&permissions=8&integration_type=0&scope=bot
+
 
 ## คุณสมบัติเด่น
 - **คำสั่งพื้นฐาน**: เช่น `!hello` และ `!dm` สำหรับส่งข้อความส่วนตัว
